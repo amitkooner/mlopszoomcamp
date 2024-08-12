@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/AKooner/Desktop/coding/mlops_zoomcamp/Final%20Project/mlruns/571750792359784566/24e1e61f651c43bcbf38817a714f9039/artifacts
+end_time: 1723443367206
+entry_point_name: ''
+experiment_id: '571750792359784566'
+lifecycle_stage: active
+run_id: 24e1e61f651c43bcbf38817a714f9039
+run_name: secretive-carp-264
+run_uuid: 24e1e61f651c43bcbf38817a714f9039
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723443359476
+status: 3
+tags: []
+user_id: AKooner

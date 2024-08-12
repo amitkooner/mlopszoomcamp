@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+mlflow
+prefect==1.0
+gunicorn
+flask
